@@ -3,4 +3,4 @@ Name : RemoteFile.txt
 Author : Nynoska
 ----------------------
 Contents
-Purpose: Git Assignment
+Purpose: Git Assignment on Remote Operations
