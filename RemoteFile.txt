@@ -2,3 +2,5 @@ Name : RemoteFile.txt
 ----------------------
 Author : Nynoska
 ----------------------
+Contents
+Purpose: Git Assignment
