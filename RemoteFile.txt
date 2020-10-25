@@ -4,7 +4,9 @@ Author : Nynoska
 ----------------------
 Location : TestRepo
 ----------------------
-Contents
-Purpose: Git Assignment on Remote Operations
+Purpose: Git Assignment 3 on Basic Remote Operations
+----------------------------------------------------
+    
+    Contents :-
 
 
