@@ -2,5 +2,9 @@ Name : RemoteFile.txt
 ----------------------
 Author : Nynoska
 ----------------------
+Location : TestRepo
+----------------------
 Contents
 Purpose: Git Assignment on Remote Operations
+
+
